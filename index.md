@@ -1,50 +1,26 @@
-# Progetto Accademico - Resilient Septuagint
+---
+layout: default
+title: Home
+nav_order: 1
+---
 
-Benvenuti nel sito del nostro progetto accademico di gruppo!
+# Resilient Septuagint
+Benvenuti nel sito del nostro progetto accademico!
 
-<div style="background: #f1f1f1; border-radius: 10px; padding: 20px;">
-  <h2 style="color: #2d4373;">Chi siamo</h2>
-  <ul>
-    <li><b>Davide Dainese</b> - PI</li>
-    <li><b>Isabella Pignocco</b> - ricercatrice</li>
-    <li><b>Laura Bigoni</b> - digital humanist</li>
-  </ul>
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80" alt="Libro antico" width="350" style="border-radius: 10px;">
 </div>
 
-## Descrizione
+## Navigazione
 
-Il progetto PRIN nasce con l'obiettivo di ...
-
----
-
-## Obiettivi
-
-- Ricostruire la storia della Septuaginta
-- Analizzare la resilienza del testo in contesti diversi
-- Produrre risorse digitali accessibili
+- [Team](team.md)
+- [Progetto](progetto.md)
+- [Pubblicazioni](pubblicazioni.md)
+- [Contatti](contatti.md)
 
 ---
 
-## Metodologia
+## Breve introduzione
 
-Abbiamo utilizzato strumenti digitali e approcci umanistici, lavorando in gruppo secondo le migliori pratiche della ricerca.
-
----
-
-## Risultati
-
-- Studio comparato dei testi
-- Database XML consultabile
-- Presentazione finale
-
----
-
-## Contatti
-
-Per informazioni e collaborazioni scrivi a: <b>tuamail@esempio.com</b>
-
----
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80" alt="Libro antico" width="400" style="border-radius: 10px;">
-</p>
+Il progetto PRIN nasce con l'obiettivo di ricostruire la storia della Septuaginta e analizzare la resilienza del testo in diversi contesti.  
+Scopri di più navigando tra le pagine!
